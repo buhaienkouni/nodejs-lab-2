@@ -1,0 +1,24 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhaienkouni/nodejs-lab-2.git"
+  },
+  "author": "buhaienkouni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhaienkouni/nodejs-lab-2/issues"
+  },
+  "homepage": "https://github.com/buhaienkouni/nodejs-lab-2#readme"
+}
